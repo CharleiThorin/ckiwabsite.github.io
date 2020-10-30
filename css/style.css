@@ -1,0 +1,25 @@
+body {
+    background-color:#c9e5d4;
+    font-family: 'Grandstander', cursive,sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h1, h2 {
+    font-family: courier,arial,helvetica, Tahoma, sans-serif;
+    color: #6e9cad;
+}
+em{
+    color:#9635ea ;
+}
+img.game{
+    width: 370px;
+    height: 370px;
+}
+
+a{
+    color: red;
+    font-weight: bold;
+}

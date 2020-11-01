@@ -45,7 +45,7 @@ header {
 
 	/* old IE fallback */
 
-	background: url(../images/milkyway.jpg),no-repeat, scroll 0 0, 0 0, -5px -25px, 0 80%;
+	background: url(milkyway.jpg),no-repeat, scroll 0 0, 0 0, -5px -25px, 0 80%;
 	background-size: auto, auto, auto, cover;
 	text-align: center;
 }
@@ -73,8 +73,7 @@ h1::before {
 	width: 80px;
 	height: 80px;
 	margin: -20px 20px 0 0;
-	background: url(../images/enso.JPG);
-	background-repeat: no-repeat;
+	background: url(enso.JPG) no-repeat;
 	background-size: 100%;
 	opacity: 0.6;
 }
@@ -591,7 +590,7 @@ footer a.zen-github:hover::before, footer a.zen-github:focus::before {content: "
 		width: 125px;
 		height: 125px;
 		margin: -65px 40px 0 0;
-		background: url(../images/enso.JPG);
+		background: url(enso.JPG);
 		background-size: 100%;
 		opacity: 0.6;
 

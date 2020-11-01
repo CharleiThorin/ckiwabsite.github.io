@@ -63,11 +63,23 @@ input[type=text] {
     padding: 6px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    text-align: center;
 }
 span{
     color: darkred;
 }
 .foot{
-    background-color: #f0f8ff;
-    vertical-align: center;
+    background-color: #f1f1f1;
+}
+.submit {
+    background-color: #a2cbbc;
+    color: white;
+    font-weight: bolder;
+    padding: 5px 10px;
+}
+.reset{
+    background-color: #a2cbbc;
+    color: white;
+    font-weight: bolder;
+    padding: 5px 10px;
 }
